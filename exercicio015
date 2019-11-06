@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+    <head>
+        <title>Frase Ariano Suassuna</title>
+        <meta charset="utf-8">
+        
+        <Style>
+            .clear-right {
+                clear:right
+            }
+            .img-suassuna {
+                float: right;
+                margin-left: 10px;
+                margin-bottom: 20px;
+                border: 1px solid #666
+            }
+        </Style>    
+    </head>
+    
+    <body>
+        <h1>Ariano Suassuna</h1>
+        
+        <img src="Sem-T%C3%ADtulo-14-696x348.jpg" 
+             width="360" height="180" 
+             title="Foto de Ariano Suassuna" 
+             alt="Foto de Ariano Suassuna"
+             class="img-suassuna"
+             >
+        
+        <p>Ariano Vilar Suassuna (Cidade da Parahyba, 16 de junho de 1927 — Recife, 23 de julho de 2014) foi um dramaturgo, romancista, ensaísta, poeta e professor brasileiro.</p>
+
+        <p>Idealizador do Movimento Armorial e autor das obras Auto da Compadecida e O Romance d'A Pedra do Reino e o Príncipe do Sangue do Vai-e-Volta, foi um preeminente defensor da cultura do Nordeste do Brasil.</p>
+
+        <p>Foi Secretário de Cultura de Pernambuco (1994-1998) e Secretário de Assessoria do governador Eduardo Campos até abril de 2014.</p>
+        
+        <p class="clear-right">Para o escritor "O otimista é um tolo. O pessimista, um chato. Bom mesmo é ser um realista esperançoso."</p>
+    </body>
+</html>
