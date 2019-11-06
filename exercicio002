@@ -5,7 +5,7 @@
 		<meta charset="utf-8"> <-- Uso essa tag para colocar a característica de caracteres próprios para a língua portuguesa-->
 	</head>
 	<body>
-		<p>Olá mundo</p>
+		<p>Olá mundo!</p>
 	</body>
 	
 </html>
