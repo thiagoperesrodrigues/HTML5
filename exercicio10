@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Campeonato Brasileiro</title>
+    </head>
+
+    <body>
+		<!-- Lista sem ordem --->
+    <h2>Times do Campeonato Brasileiro de 2019</h2>
+        <ul type="square">
+        	  <li>Athletico Paranaense</li>
+          	<li>Atlético Mineiro</li>
+            <li>Avaí</li>
+            <li>Bahia</li>
+            <li>Botafogo</li>
+            <li>Ceará</li>
+            <li>Chapecoence</li>
+            <li>Corinthians</li>
+            <li>Cruzeiro</li>
+            <li>CSA</li>
+            <li>Flamengo</li>
+            <li>Fluminense</li>
+            <li>Fortaleza</li>
+            <li>Goiás</li>
+            <li>Grêmio</li>
+            <li>Internacional</li>
+            <li>Palmeiras</li>
+            <li>Santos</li>
+            <li>São Paulo</li>
+            <li>Vasco</li>
+        </ul>
+        
+		<!-- Lista em ordem --->
+    <h2>Classificação do Campeonato Brasileiro de 2019</h2>
+        <ol>
+        	  <li>Flamengo</li>
+            <li>Palmeiras</li>
+            <li>Santos</li>
+            <li>São Paulo</li>
+            <li>Grêmio</li>
+            <li>Athletico Paranaense</li>
+        	  <li>Internacional</li>
+            <li>Corinthians</li>
+            <li>Goiás</li>
+            <li>Bahia</li>
+            <li>Vasco</li>
+            <li>Fortaleza</li>
+            <li>Atlético Mineiro</li>
+            <li>Botafogo</li>
+            <li>Ceará</li>
+            <li>Cruzeiro</li>
+            <li>Fluminense</li>
+            <li>CSA</li>
+            <li>Chapecoense</li>
+            <li>Avaí</li>  
+        </ol>        
+
+		<!-- Lista descriptiva --->
+      <dl>
+			   <dt>Estádios</dt>
+           <dd>
+          	Capacidades Máximas<br>
+            Endereços<br>
+           </dd>
+           
+          <dt>Estatísticas</dt>
+            <dd>
+            	Artilheiros
+              Assistências
+              Maiores Públicos
+              Menores Públicos
+           </dd>
+        </dl> 
+    </body>
+
+</html>
