@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+    <head>
+        <title>Sorteio Número</title>
+        <meta http-equiv="refresh" content="4">
+            <script>
+            function sorteioNumero() {
+                resultado.innerHTML = Math.random() * 50;   
+                }
+                window.onload = sorteioNumero;
+            </script>
+    </head>
+    <body>
+        <p id="resultado"></p>
+    </body>
+</html>
