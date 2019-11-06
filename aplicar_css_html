@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+    <head>
+        <title>Unidade 02 - Elemento Head</title>
+        <meta charset="utf-8">
+        <style>
+            body {
+                background: #DDD;
+                font-family: Arial,sans-serif;
+                color: #6A5
+            }
+        </style>  
+    </head>
+    <body>
+        <p>"O otimista é um tolo. O pessimista, um chato. Bom mesmo é ser um realista esperançoso." (Ariano Suassuna)</p>
+    </body>
+</html>
