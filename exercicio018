@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="ISO-8859-2">
+        <title>Último livro de Ariano Suassuna é autobiografia poética</title>
+        
+        <style>
+			figure {
+				float:inherit;
+				margin-left:275px;
+				border:1px solid #999;
+				padding:3px;
+				margin-bottom:10px;
+			}
+		</style>
+        
+        
+    </head>
+    
+    <body>
+		<h1>Último livro de Ariano Suassuna é autobiografia poética</h1>
+        
+		<h2>O paraibano passou três décadas escrevendo a obra, lançada postumamente pela família</h2>
+		<h3>Prato do dia</h3>
+    <figure>    
+
+				<img 	src="imagens/Exerc%C3%ADcio16.jpg" 	width="450" height="250"  title="Foto Ariano Suassuna" 
+        				alt="Foto da rua do hotel" class="foto" >
+        <figcaption>
+            Ariano Suassuna escreveu e reescreveu <br>O Romance de Dom Pantero por mais de três décadas<br>
+(foto: Breno Fortes/CB/D.A Press - 15/4/14)
+        </figcaption>
+
+    </figure>
+        <p>O Romance de <i>Dom Pantero no palco dos pecadores</i> chega para coroar a obra de um dos escritores e dramaturgos mais importantes de nosso tempo. Ariano Suassuna escreveu a obra ao longo de 33 anos (de 1981 até 2014, ano de sua morte) e mostrou nela sua vontade de realçar a cultura popular por meio das páginas. O manuscrito inédito estava guardado no escritório do autor paraibano e foi localizado por sua família, que reuniu a obra e cuidou da publicação. Entre as mais de mil páginas, Suassuna mostra sua paixão pela literatura e o talento para contar boas histórias.</p>
+        <p> <a href="../exercicio03/suassuna.html" target="_blank"> Conheça mais de Ariano Suassuna</a> </p>
+        <p>Considerado uma autobiografia do escritor, o livro é dividido em dois volumes: O <i>Jumento Sedutor</i> e <i>O Palhaço Tetrafônico</i>. A edição preparada cuidadosamente pela Nova Fronteira conta com um projeto gráfico primoroso e ilustrações feitas pelo próprio autor. O manuscrito foi definido por Suassuna como “Cartas, Depoimentos-Entrevistosos e Diálogos-de-Narrativa-Espetaculosa” e revisita seu trabalho que passa por múltiplas linguagens. Entre as páginas é possível encontrar o olhar de Ariano, sob a narrativa de Dom Pantero, para o teatro, a poesia e o romance</p>
+        <p>A direção de arte ficou a cargo do artista plástico Manuel Suassuna, filho do autor. Ele lembra que este é um livro central de toda a obra de seu pai, uma autobiografia musical, dançarina, poética e teatral. “Essa é uma obra de arte extraordinária, na qual um artista pôde se mostrar em suas mais diversas expressões. As diferentes linguagens foram unidas de forma pessoal, única e bem ao gosto e talento do autor”, destaca Manuel. Entre o choro, o riso e a ansiedade, a família se uniu para dar vida à publicação, alimentando a esperança de deixá-la como Suassuna gostaria que fosse feita.</p>
+        <p> <a href="http://www.academia.org.br/academicos/ariano-suassuna/biografia" target="_blank"> Biografia no site da academia brasileira de letras </a></p>
+
+</body>
+</html>
