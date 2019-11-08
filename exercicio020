@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Curso HTML5 Essencial</title>
+        
+        <style>
+            body {
+                font-family: sans-serif;
+                font-size: 12 px;
+                background-color: #DCDCDC;
+            }
+            
+            li {
+                list-style-image: url(../liverpool2.png);
+                
+                
+            }
+		</style>
+    </head>
+    
+    <body>
+        <h1>Elenco do Liverpool 2019</h1>
+        
+        <h3>Goleiros</h3>
+        <ul>
+            <li><b>1.</b> Alisson</li>
+            <li><b>13.</b> Adrián</li>
+            <li><b>62.</b> Caoimhin Kelleher</li>
+            <li><b>22.</b> Andy Lonergan</li>
+        </ul>
+        <h3>Zagueiros</h3>
+        <ul>
+            <li><b>4.</b> Virgil van Dijk</li>
+            <li><b>12.</b> Joe Gomez</li>
+            <li><b>32.</b> Joel Matip</li>
+            <li><b>6.</b> Dejan Lovren</li>
+            <li><b>72.</b> Sepp van den Berg</li>   
+        </ul>
+        <h3>Laterais</h3>
+        <ul>
+            <li><b>26.</b> Andrew Robertson</li>
+            <li><b>66.</b> Trent Alexander-Arnold</li>
+            <li><b>2.</b> Nathaniel Clyne</li>
+        </ul>
+        <h3>Meio-Campistas</h3>
+        <ul>
+            <li><b>3.</b> Fabinho</li>
+            <li><b>5.</b> Georginio Wijnaldum</li>
+            <li><b>8.</b> Naby Keita</li>
+            <li><b>14.</b> Jordan Henderson</li>
+            <li><b>15.</b> Alex Oxlade-Chamberlain</li>
+            <li><b>7.</b> James Milner</li>
+            <li><b>20.</b> Adam Lallana</li>
+        </ul>
+        <h3>Atacantes</h3>
+        <ul>
+            <li><b>10.</b> Sadio Mané</li>
+            <li><b>11.</b> Mohamed Salah</li>
+            <li><b>23.</b> Xherdan Shaqiri</li>
+            <li><b>9</b> Roberto Firmino</li>
+            <li><b>27.</b> Divock Origi</li>
+        </ul>
+    </body>
+</html>
