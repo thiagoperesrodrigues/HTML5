@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="ISO-8859-2">
+        <title>José Saramago</title>
+        <style>
+			body {
+				font-family:Arial, Helvetica, sans-serif;
+				font-size:14px;
+                background: #DDD;
+                color:#800;
+			}
+		
+			h1 {
+				font-family:Georgia, "Times New Roman", Times, serif;
+				font-style:italic;
+				font-size:40px;
+				color:#800;
+				letter-spacing:-0.05;
+				text-shadow:1px 1px 1px #666;
+			}
+			
+			h3 {
+				font-family:Georgia, "Times New Roman", Times, serif;
+				font-style:italic;
+				font-size:20px;
+				color:#800;
+				text-shadow:1px 1px 1px #666;
+			}
+			
+			p, li, section {
+				color:#333;
+				margin-bottom:5px;
+			}
+			
+			section {
+				margin-bottom:100px;
+			}
+			
+			footer {
+				height:350px;	
+			}
+		
+		</style>
+    </head>
+
+    <body>
+        <h1 id="topo">José Saramago</h1>
+    
+            <section id="nav_interno">
+    	       <a href="#biografia">Biografia</a>| <a href="#obraspublicadas">Obras Publicadas</a> | <a href="#frases">Frases</a> | <a href="#premios">Prêmios</a>
+            </section>
+          
+        <h3 id="biografia">Biografia</h3>
+   
+            <p>Filho e neto de camponeses, José Saramago nasceu na aldeia de Azinhaga, província do Ribatejo, no dia 16 de Novembro de 1922, se bem que o registo oficial mencione como data de nascimento o dia 18. Os seus pais emigraram para Lisboa quando ele não havia ainda completado dois anos. A maior parte da sua vida decorreu, portanto, na capital, embora até aos primeiros anos da idade adulta fossem numerosas, e por vezes prolongadas, as suas estadas na aldeia natal.</p>
+
+            <p>Fez estudos secundários (liceais e técnicos) que, por dificuldades económicas, não pôde prosseguir. O seu primeiro emprego foi como serralheiro mecânico, tendo exercido depois diversas profissões: desenhador, funcionário da saúde e da previdência social, tradutor, editor, jornalista. Publicou o seu primeiro livro, um romance,  Terra do Pecado, em 1947, tendo estado depois largo tempo sem publicar (até 1966). Trabalhou durante doze anos numa editora, onde exerceu funções de direcção literária e de produção. Colaborou como crítico literário na revista  Seara Nova. Em 1972 e 1973 fez parte da redacção do jornal Diário de Lisboa, onde foi comentador político, tendo também coordenado, durante cerca de um ano, o suplemento cultural daquele vespertino.</p>
+        <a href="../unidade06/exercicio03/index.html"> 
+            <img src="JoseSaramago_Jos%C3%A9%20Lu%C3%ADs%20Roca_CC_BY_20.jpg" width="475" height="" tittle="José Saramago" alt="José Saramago José Luís Roca / CC BY 2.0">
+        </a>   
+    <figcaption>
+        <p><i>José Saramago José Luís Roca / CC BY 2.0</i></p>
+    </figcaption>
+    <p>Pertenceu à primeira Direcção da Associação Portuguesa de Escritores e foi, de 1985 a 1994, presidente da Assembleia Geral da Sociedade Portuguesa de Autores. Entre Abril e Novembro de 1975 foi director-adjunto do jornal  Diário de Notícias. A partir de 1976 passou a viver exclusivamente do seu trabalho literário, primeiro como tradutor, depois como autor. Casou com Pilar del Río em 1988 e em Fevereiro de 1993 decidiu repartir o seu tempo entre a sua residência habitual em Lisboa e a ilha de Lanzarote, no arquipélago das Canárias (Espanha). Em 1998 foi-lhe atribuído o Prémio Nobel de Literatura.</p>
+
+    <p>José Saramago faleceu a 18 de Junho de 2010.</p>
+
+    <h3 id="obraspublicadas">Obras Publicadas</h3>
+    
+    <ul>
+        <li>Terra do Pecado, 1947</li>
+        <li>Manual de Pintura e Caligrafia, 1977</li>
+        <li>Levantado do Chão, 1980</li>
+        <li>Memorial do Convento, 1982</li>
+        <li>O Ano da Morte de Ricardo Reis, 1984 </li>
+        <li>A Jangada de Pedra, 1986</li>
+        <li>História do Cerco de Lisboa, 1989</li>
+        <li>O Evangelho Segundo Jesus Cristo, 1991</li>
+        <li>Ensaio Sobre a Cegueira, 1995</li>
+        <li>Todos os Nomes, 1997</li>
+        <li>A Caverna, 2000</li>
+        <li>O Homem Duplicado, 2002</li>
+        <li>Ensaio Sobre a Lucidez, 2004</li>
+        <li>As Intermitências da Morte, 2005</li>
+        <li>A Viagem do Elefante, 2008</li>
+        <li>Caim, 2009</li>
+        <li>Claraboia, 2011</li>
+        <li>Alabardas, Alabardas, Espingardas, Espingardas, 2014</li>
+    </ul>
+
+    <h3 id="frases">Frases</h3>
+    <img src="saramago.jpg" width="575" height="400" alt="Desserts">
+    <ul>
+        <p>"Não tenhamos pressa, mas não percamos tempo."</p>
+        
+        <p>"Dentro de nós há uma coisa que não tem nome, essa coisa é o que somos"</p>
+        
+        <p>"Se tens um coração de ferro, bom proveito.
+O meu, fizeram-no de carne, e sangra todo dia."</p>
+        
+        <p>"O que as vitórias têm de mau é que não são definitivas. O que as derrotas têm de bom é que também não são definitivas."</p>
+        
+        <p>"As palavras proferidas pelo coração não tem língua que as articule, retém-nas um nó na garganta e só nos olhos é que se podem ler."</p>
+    </ul>
+
+    <h3 id="premios">Prêmios</h3>
+    <img src="nobelfoto-720x320.jpg" width="" height="" alt="Saramago Nobel">
+    <figcaption>
+        <p><i>Em 1998, José Saramago vence o Prêmio Nobel de Literatura</i></p>
+    </figcaption>
+    <ul>
+        <li>Prêmio da Associação de Críticos Portugueses "A Noite", 1979</li>
+        <li>Prêmio Cidade de Lisboa "Levantado do Chão", 1980</li>
+        <li>Prêmio PEN Clube Português "Memorial do Convento", 1982</li>
+        <li>Prêmio Literário Município de Lisboa, 1982</li>
+        <li>Prêmio PEN Clube Português "O Ano da Morte de Ricardo Reis" , 1984</li>
+        <li>Prêmio Dom Dinis da Fundação Casa de Mateus "O Ano da Morte de Ricardo Reis", 1984</li>
+        <li>Prêmio da Crítica pelo Conjunto da Obra, 1985</li>
+        <li>Prêmio Grinzane-Cavour "O Ano da Morte de Ricardo Reis", 1987</li>
+        <li>Grande Prêmio de Novela da Associação Portuguesa de Escritores, "Evangelho segundo Jesus Cristo", 1991</li>
+        <li>Prêmio Bracati, Conjunto da Obra, 1992</li>
+        <li>Prêmio Internacional Ennio Flaiano "Levantado do Chão", 1992</li>
+        <li>Prêmio Internacional Literário Mondello, Conjunto da Obra, 1992</li>
+        <li>Grande Prêmio de Teatro da Associação Portuguesa de Escritores "In Nomine Dei", 1993</li>
+        <li>Prêmio Vida Literária da Associação Portuguesa de Escritores, 1993</li>
+        <li>Prêmio do jornal The Independent "O Ano da Morte de Ricardo Reis", 1993</li>
+        <li>Prêmio Consagração SPA (Sociedade Portuguesa de Autores), 1995</li>
+        <li>Prêmio Camões, 1995</li>
+        <li>Prêmio Nobel da Literatura, 1998</li>
+    </ul>
+    
+    <footer></footer>
+
+</body>
+</html>
